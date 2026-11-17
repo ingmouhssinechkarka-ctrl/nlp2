@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.pdf
+presentation/build_deck.js
+~$*
