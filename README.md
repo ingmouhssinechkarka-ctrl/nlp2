@@ -14,10 +14,7 @@ téléchargement ni GPU.
 │   ├── 1_classification_metrics.py       # Accuracy, P, R, F1, ROC-AUC, macro/micro
 │   ├── 2_sequence_labeling_metrics.py    # NER : token accuracy vs F1 entité (CoNLL)
 │   └── 3_machine_translation_metrics.py  # BLEU, chrF, TER
-├── outputs/                              # figures générées (PNG)
-├── presentation/
-│   ├── Evaluation_Metrics_NLP_Mouhssine_Chkarka.pptx   # slides (notes orateur incluses)
-│   └── SCRIPT_ORAL.md                    # texte minuté (< 7 min)
+├── outputs/                              # figures PNG créées à l'exécution
 ├── requirements.txt
 └── README.md
 ```
